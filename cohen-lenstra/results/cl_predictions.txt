@@ -1,0 +1,81 @@
+Cohen-Lenstra predictions (u=0 imaginary, u=1 real)
+
+  p  P(p|h) imag  P(p|h) real  E|Cl[p]| imag  E|Cl[p]| real
+  3     0.439874     0.159811       2.000000       1.333333
+  5     0.239667     0.049584       2.000000       1.200000
+  7     0.163205     0.023739       2.000000       1.142857
+ 11     0.099167     0.009084       2.000000       1.090909
+ 13     0.082838     0.006407       2.000000       1.076923
+ 17     0.062283     0.003676       2.000000       1.058824
+ 19     0.055401     0.002924       2.000000       1.052632
+ 23     0.045368     0.001976       2.000000       1.043478
+
+p = 3: p-rank distribution
+  rank 0: imag 0.56012608   real 0.84018912
+  rank 1: imag 0.42009456   real 0.15753546
+  rank 2: imag 0.01969193   real 0.00227215
+  rank 3: imag 0.00008739   real 0.00000328
+  rank 4: imag 0.00000004   real 0.00000000
+  p-Sylow distribution (groups of order <= p^4)
+  1                            imag 0.56012608   real 0.84018912
+  Z/p                          imag 0.28006304   real 0.14003152
+  Z/p^2                        imag 0.09335435   real 0.01555906
+  Z/p x Z/p                    imag 0.01166929   real 0.00194488
+  Z/p^3                        imag 0.03111812   real 0.00172878
+  Z/p^2 x Z/p                  imag 0.00518635   real 0.00028813
+  Z/p x Z/p x Z/p              imag 0.00004987   real 0.00000277
+  Z/p^4                        imag 0.01037271   real 0.00019209
+  Z/p^3 x Z/p                  imag 0.00172878   real 0.00003201
+  Z/p^2 x Z/p^2                imag 0.00014407   real 0.00000267
+  Z/p^2 x Z/p x Z/p            imag 0.00002401   real 0.00000044
+  Z/p x Z/p x Z/p x Z/p        imag 0.00000002   real 0.00000000
+
+p = 5: p-rank distribution
+  rank 0: imag 0.76033280   real 0.95041599
+  rank 1: imag 0.23760400   real 0.04950083
+  rank 2: imag 0.00206253   real 0.00008317
+  rank 3: imag 0.00000067   real 0.00000001
+  rank 4: imag 0.00000000   real 0.00000000
+  p-Sylow distribution (groups of order <= p^4)
+  1                            imag 0.76033280   real 0.95041599
+  Z/p                          imag 0.19008320   real 0.04752080
+  Z/p^2                        imag 0.03801664   real 0.00190083
+  Z/p x Z/p                    imag 0.00158403   real 0.00007920
+  Z/p^3                        imag 0.00760333   real 0.00007603
+  Z/p^2 x Z/p                  imag 0.00038017   real 0.00000380
+  Z/p x Z/p x Z/p              imag 0.00000051   real 0.00000001
+  Z/p^4                        imag 0.00152067   real 0.00000304
+  Z/p^3 x Z/p                  imag 0.00007603   real 0.00000015
+  Z/p^2 x Z/p^2                imag 0.00000253   real 0.00000001
+  Z/p^2 x Z/p x Z/p            imag 0.00000013   real 0.00000000
+  Z/p x Z/p x Z/p x Z/p        imag 0.00000000   real 0.00000000
+
+p = 7: p-rank distribution
+  rank 0: imag 0.83679541   real 0.97626131
+  rank 1: imag 0.16271022   real 0.02372857
+  rank 2: imag 0.00049435   real 0.00001012
+  rank 3: imag 0.00000003   real 0.00000000
+  rank 4: imag 0.00000000   real 0.00000000
+  p-Sylow distribution (groups of order <= p^4)
+  1                            imag 0.83679541   real 0.97626131
+  Z/p                          imag 0.13946590   real 0.02324432
+  Z/p^2                        imag 0.01992370   real 0.00047437
+  Z/p x Z/p                    imag 0.00041508   real 0.00000988
+  Z/p^3                        imag 0.00284624   real 0.00000968
+  Z/p^2 x Z/p                  imag 0.00006777   real 0.00000023
+  Z/p x Z/p x Z/p              imag 0.00000002   real 0.00000000
+  Z/p^4                        imag 0.00040661   real 0.00000020
+  Z/p^3 x Z/p                  imag 0.00000968   real 0.00000000
+  Z/p^2 x Z/p^2                imag 0.00000017   real 0.00000000
+  Z/p^2 x Z/p x Z/p            imag 0.00000000   real 0.00000000
+  Z/p x Z/p x Z/p x Z/p        imag 0.00000000   real 0.00000000
+
+Gerth (p = 2, applied to 2*Cl): 4-rank distribution
+  4-rank 0: imag 0.28878810   real 0.57757619
+  4-rank 1: imag 0.57757619   real 0.38505079
+  4-rank 2: imag 0.12835026   real 0.03667150
+  4-rank 3: imag 0.00523879   real 0.00069850
+  4-rank 4: imag 0.00004657   real 0.00000300
+
+P(odd part of Cl cyclic): imag 0.977575   real 0.997631
+P(odd part trivial), real: 0.754458
